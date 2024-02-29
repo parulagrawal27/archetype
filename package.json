@@ -4,7 +4,7 @@
   "author": "Valeri Karpov <val@boosterfuels.com>",
   "dependencies": {
     "lodash.clonedeep": "4.x",
-    "lodash.set": "4.x",
+    "lodash.set": "git+https://github.com/parulagrawal27/lodash.git#c2e8788ce971dfd69fe7b4a8232be369dd22fc83",
     "mpath": "0.8.x"
   },
   "devDependencies": {
